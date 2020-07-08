@@ -1,6 +1,6 @@
 # Welcome to NOGS!
 
-NOG Seminars are organized by the [Physics Graduate Student Council](https://pgsc.physics.wisc.edu/) to showcase the fantastic research of the grad students in the University of Wisconsin-Madison Physics Department.
+NOG Seminars are organized by the [Physics Graduate Student Council](https://pgsc.physics.wisc.edu/) to showcase the fantastic research of the graduate students in the University of Wisconsin-Madison Physics Department.
 The talks are accessible to anyone with an introductory physics knowledge, and they are a great jumping off point to find researrch that interests you.
 Find the sign-up links and the upcoming schedule below, and feel free to contact members of the PGSC with questions.
 
