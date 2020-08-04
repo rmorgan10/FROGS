@@ -14,6 +14,8 @@ Note that you need to access it from your UW-Madison email address.
 | Date | Speaker | Title |
 | --- | --- | --- |
 | August 18, 2020 | Aedan Gardill | Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond |
+| September 1, 2020 | Ben Harpt | Quantum Computing with Individual Electrons |
+| September 15, 2020 | Rob Morgan | How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos |
 
 ## Abstracts
 
