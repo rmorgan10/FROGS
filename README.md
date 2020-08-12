@@ -14,7 +14,7 @@ Note that you need to access it from your UW-Madison email address.
 <br>
 _Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond_
 <br>
-https://us02web.zoom.us/j/89134298386
+[https://us02web.zoom.us/j/89134298386](https://us02web.zoom.us/j/89134298386)
 
 
 ## Schedule
