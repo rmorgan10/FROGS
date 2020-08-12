@@ -10,9 +10,8 @@ Please fill out [this Google Form](https://forms.gle/438djJc1GmeK9qfS8).
 Note that you need to access it from your UW-Madison email address.
 
 ## Next Up
-|`2:30-3:00 CDT; Tuesday, August 18` | `Aedan Gardill` | https://us02web.zoom.us/j/89134298386 |
-|-|-|-|
-
+**2:30-3:00 CDT; Tuesday, August 18 - Aedan Gardill - https://us02web.zoom.us/j/89134298386**
+<br>
 _Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond_
 
 
