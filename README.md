@@ -12,9 +12,9 @@ Note that you need to access it from your UW-Madison email address.
 ## Next Up
 **Tuesday, August 18 - 2:30-3:00 CDT - Aedan Gardill**
 <br>
-https://us02web.zoom.us/j/89134298386
-<br>
 _Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond_
+<br>
+https://us02web.zoom.us/j/89134298386
 
 
 ## Schedule
