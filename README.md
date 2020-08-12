@@ -9,6 +9,13 @@ Find the sign-up link, the upcoming schedule, and abstracts below, and feel free
 Please fill out [this Google Form](https://forms.gle/438djJc1GmeK9qfS8). 
 Note that you need to access it from your UW-Madison email address.
 
+## Next Up
+|`2:30-3:00 CDT; Tuesday, August 18` | `Aedan Gardill` | https://us02web.zoom.us/j/89134298386 |
+|-|-|-|
+
+_Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond_
+
+
 ## Schedule
 
 | Date | Speaker | Title |
