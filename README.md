@@ -31,7 +31,8 @@ _Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond_
 ## NOG Talks
 
 ### Aedan Gardill - Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond
-[Slides](https://github.com/rmorgan10/NOGS/blob/master/assets/slides/2020_08_18_AedanGardill.pdf)
+Slides: [2020\_08\_18\_AedanGardill.pdf](https://github.com/rmorgan10/NOGS/blob/master/assets/slides/2020_08_18_AedanGardill.pdf)
+
 Nanoscale metrology has applications in fields ranging from industrial fabrication to biophysics to the study of complex condensed matter systems. 
 Our group is developing novel sensing techniques with the nitrogen-vacancy (NV) center defect in diamond to enable local measurements of material properties and dynamics at the nanometer scale. 
 Understanding the origins of decoherence in NVs is vital to unlocking their full potential for metrology. 
