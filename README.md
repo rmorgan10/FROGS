@@ -28,7 +28,7 @@ _Quantum Computing with Individual Electrons_
 | September 1, 2020 | 2:30pm | Ben Harpt | Quantum Computing with Individual Electrons |
 | September 15, 2020 | 2:30pm | Rob Morgan | How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos |
 
-## NOG Talks
+## Upcoming Talk Abstracts
 
 ### Ben Harpt - Quantum Computing with Individual Electrons
 
@@ -39,11 +39,7 @@ In this NOGS talk, I explain how individual electron spins in semiconductors can
 In broad strokes, I show how to prepare, manipulate, and read out these so-called spin qubits. 
 I also highlight active research fronts in the quest to scale single qubits into functional quantum computers.
 
-### Aedan Gardill - Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond
-Slides: [2020\_08\_18\_AedanGardill.pdf](https://github.com/rmorgan10/NOGS/blob/master/assets/slides/2020_08_18_AedanGardill.pdf)
+## The NOGS Archive
 
-Nanoscale metrology has applications in fields ranging from industrial fabrication to biophysics to the study of complex condensed matter systems. 
-Our group is developing novel sensing techniques with the nitrogen-vacancy (NV) center defect in diamond to enable local measurements of material properties and dynamics at the nanometer scale. 
-Understanding the origins of decoherence in NVs is vital to unlocking their full potential for metrology. 
-I will present recent work in which we have shed light on some of the NV decoherence sources intrinsic to diamond. 
-These results bring us a step closer to using NVs to investigate the nature of decoherence in other quantum systems, such as solid-state qubit platforms.
+- Aedan Gardill [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://github.com/rmorgan10/NOGS/AedanGardill/), August 18, 2020
+
