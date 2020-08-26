@@ -41,5 +41,5 @@ I also highlight active research fronts in the quest to scale single qubits into
 
 ## The NOGS Archive
 
-- **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://github.com/rmorgan10/NOGS/AedanGardill/) - August 18, 2020
+- **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://rmorgan10.github.io/NOGS/AedanGardill/) - August 18, 2020
 
