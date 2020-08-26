@@ -10,8 +10,6 @@ Understanding the origins of decoherence in NVs is vital to unlocking their full
 I will present recent work in which we have shed light on some of the NV decoherence sources intrinsic to diamond. 
 These results bring us a step closer to using NVs to investigate the nature of decoherence in other quantum systems, such as solid-state qubit platforms.
 
-[Link to talk PDF](https://rmorgan10.github.io/NOGS/AedanGardill/2020_08_18_AedanGardill.pdf)
-
 <a href="https://rmorgan10.github.io/NOGS/AedanGardill/2020_08_18_AedanGardill.pdf" target="_blank">Link to talk PDF</a> 
 
 ![](./slides/slide_01.png)
