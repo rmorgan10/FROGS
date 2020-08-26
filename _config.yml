@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 logo: "assets/images/nogs_logo_atom.png"
 minimal_mistakes_skin: "contrast"
 
-baseurl: "https://github.com/rmorgan10/NOGS/"
