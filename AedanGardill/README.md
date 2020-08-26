@@ -12,6 +12,8 @@ These results bring us a step closer to using NVs to investigate the nature of d
 
 [Link to talk PDF](https://rmorgan10.github.io/NOGS/AedanGardill/2020_08_18_AedanGardill.pdf)
 
+<a href="https://rmorgan10.github.io/NOGS/AedanGardill/2020_08_18_AedanGardill.pdf" target="_blank">Link to talk PDF</a> 
+
 ![](./slides/slide_01.png)
 
 ![](./slides/slide_02.png)
