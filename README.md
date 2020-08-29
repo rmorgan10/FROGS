@@ -25,7 +25,7 @@ _Quantum Computing with Individual Electrons_
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
 | September 1, 2020 | 2:30pm | Ben Harpt | [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/NOGS/BenHarpt/) |
-| September 15, 2020 | 2:30pm | Rob Morgan | [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/NOGS/RobMorgan/) |
+| September 17, 2020 | 2:30pm | Rob Morgan | [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/NOGS/RobMorgan/) |
 | September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/NOGS/GregLoges/) |
 | October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/NOGS/BrentMode/) |
 
