@@ -41,4 +41,4 @@ In this talk, I'll convey the thrill (anxiety) of working in real-time, overview
 ## The NOGS Archive
 
 - **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://rmorgan10.github.io/NOGS/AedanGardill/) - August 18, 2020
-- **Ben Harptl** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/NOGS/BenHarpt/) - September 1, 2020
+- **Ben Harpt** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/NOGS/BenHarpt/) - September 1, 2020
