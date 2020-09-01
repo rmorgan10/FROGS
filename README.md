@@ -16,7 +16,7 @@ Note that you need to access it from your UW-Madison email address.
 <br>
 _How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos_
 <br>
-[https://us02web.zoom.us/j/87918166465](https://us02web.zoom.us/j/87918166465
+[https://us02web.zoom.us/j/87918166465](https://us02web.zoom.us/j/87918166465)
 
 ---
 
