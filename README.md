@@ -12,7 +12,7 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Tuesday, September 17 - 2:30-3:00 CDT - Rob Morgan**
+**Thursday, September 17 - 2:30-3:00 CDT - Rob Morgan**
 <br>
 _How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos_
 <br>
