@@ -38,6 +38,13 @@ The task of finding the exact source of the messenger falls to the electromagnet
 In my work, I help operate and process images from the most powerful optical telescope ever built in real-time to search for light from these explosions. 
 In this talk, I'll convey the thrill (anxiety) of working in real-time, overview the process of finding the sources of high-energy neutrinos and gravitational waves using machine learning, and outline the vast array of scientific analyses that can be done once these sources are found.
 
+### Greg Loges - Slogging through the Swampland
+
+The Landscape of quantum gravity-derivable theories is surrounded on all sides by a vast, quantum gravity-incompatible Swampland. 
+The aim of the Swampland program is to understand those features which can be used to distinguish these two different regions. 
+In this talk I will give a brief introduction to recent progress in our understanding of quantum gravity and its implications for low-energy physics. 
+I will focus on the weak gravity conjecture and present an overview of our recent work in which we use black hole thermodynamics to understand the role of symmetries in demonstrating the conjecture.
+
 ### Brent Mode - Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array
 
 As they speed through the Earth’s atmosphere, very high energy gamma rays have the potential to collide with an air molecule, setting off cascades of particle interactions which are detectable from a characteristic blue glow called Cherenkov light. 
