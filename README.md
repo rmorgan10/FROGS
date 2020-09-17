@@ -12,7 +12,7 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Thursday, September 29 - 2:30-3:00 CDT - Greg Loges**
+**Tuesday, September 29 - 2:30-3:00 CDT - Greg Loges**
 <br>
 _Slogging through the Swampland_
 <br>
