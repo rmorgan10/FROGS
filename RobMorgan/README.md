@@ -10,7 +10,7 @@ The task of finding the exact source of the messenger falls to the electromagnet
 In my work, I help operate and process images from the most powerful optical telescope ever built in real-time to search for light from these explosions. 
 In this talk, I'll convey the thrill (anxiety) of working in real-time, overview the process of finding the sources of high-energy neutrinos and gravitational waves using machine learning, and outline the vast array of scientific analyses that can be done once these sources are found.
 
-<a href="https://rmorgan10.github.io/NOGS/RobMorgan/Morgan_NOGS.pdf" target="_blank">Link to talk PDF</a>
+<a href="https://rmorgan10.github.io/FROGS/RobMorgan/Morgan_NOGS.pdf" target="_blank">Link to talk PDF</a>
 
 ![](./slides/Slide1.png)
 
