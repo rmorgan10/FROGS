@@ -1,6 +1,6 @@
-# Welcome to NOGS!
+# Welcome to FROGS!
 
-NOG Seminars are organized by the [Physics Graduate Student Council](https://pgsc.physics.wisc.edu/) to showcase the fantastic research of the graduate students in the University of Wisconsin-Madison Physics Department.
+FROG Seminars are organized by the [Physics Graduate Student Council](https://pgsc.physics.wisc.edu/) to showcase the fantastic research of the graduate students in the University of Wisconsin-Madison Physics Department.
 The talks are accessible to anyone with an introductory physics knowledge, and they are a great jumping off point to find research that interests you.
 Find the sign-up link, the upcoming schedule, and abstracts below, and feel free to contact members of the PGSC with questions.
 
@@ -24,8 +24,8 @@ _Slogging through the Swampland_
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/NOGS/GregLoges/) |
-| October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/NOGS/BrentMode/) |
+| September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) |
+| October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) |
 
 ## Upcoming Talk Abstracts
 
@@ -43,8 +43,8 @@ While these interactions occur on much too short a time scale and produce light 
 My work at UW-Madison is focused on the development and commissioning of one such camera for the prototype Schwarzschild-Couder Telescope (pSCT) as part of the upcoming Cherenkov Telescope Array. 
 I will describe the specifications of this novel instrument, the contributions I’ve made to the pSCT’s development, and touch on the science that will be possible once the pSCT is completed.
 
-## The NOGS Archive
+## The FROGS Archive
 
-- **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://rmorgan10.github.io/NOGS/AedanGardill/) - August 18, 2020
-- **Ben Harpt** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/NOGS/BenHarpt/) - September 1, 2020
-- **Rob Morgan** - [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/NOGS/RobMorgan/) - September 17, 2020
+- **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://rmorgan10.github.io/FROGS/AedanGardill/) - August 18, 2020
+- **Ben Harpt** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/FROGS/BenHarpt/) - September 1, 2020
+- **Rob Morgan** - [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/FROGS/RobMorgan/) - September 17, 2020
