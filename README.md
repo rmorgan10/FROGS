@@ -12,11 +12,11 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Tuesday, September 29 - 2:30-3:00 CDT - Greg Loges**
+**Tuesday, October 13 - 2:30-3:00 CDT - Brent Mode**
 <br>
-_Slogging through the Swampland_
+_Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array_
 <br>
-[https://uwmadison.zoom.us/j/99428233366](https://uwmadison.zoom.us/j/99428233366)
+[https://uwmadison.zoom.us/j/93632998756](https://uwmadison.zoom.us/j/93632998756)
 
 ---
 
@@ -24,7 +24,6 @@ _Slogging through the Swampland_
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) |
 | October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) |
 | October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
 | November 10, 2020 | 2:30pm | Joelle Corrigan | [Silicon Quantum Dot Qubits](https://rmorgan10.github.io/FROGS/JoelleCorrigan/) |
