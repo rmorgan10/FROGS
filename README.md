@@ -26,6 +26,8 @@ _Slogging through the Swampland_
 | --- | --- | --- | --- |
 | September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) |
 | October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) |
+| October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
+| November 10, 2020 | 2:30pm | Joelle Corrigan | [Silicon Quantum Dot Qubits](https://rmorgan10.github.io/FROGS/JoelleCorrigan/) |
 
 ## Upcoming Talk Abstracts
 
