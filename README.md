@@ -12,11 +12,11 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Tuesday, September 29 - 2:30-3:00 CDT - Greg Loges**
+**Tuesday, October 13 - 2:30-3:00 CDT - Brent Mode**
 <br>
-_Slogging through the Swampland_
+_Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array_
 <br>
-[https://uwmadison.zoom.us/j/99428233366](https://uwmadison.zoom.us/j/99428233366)
+[https://uwmadison.zoom.us/j/93632998756](https://uwmadison.zoom.us/j/93632998756)
 
 ---
 
@@ -24,19 +24,11 @@ _Slogging through the Swampland_
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| September 29, 2020 | 2:30pm | Greg Loges | [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) |
 | October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) |
 | October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
 | November 10, 2020 | 2:30pm | Joelle Corrigan | [Silicon Quantum Dot Qubits](https://rmorgan10.github.io/FROGS/JoelleCorrigan/) |
 
 ## Upcoming Talk Abstracts
-
-### Greg Loges - Slogging through the Swampland
-
-The Landscape of quantum gravity-derivable theories is surrounded on all sides by a vast, quantum gravity-incompatible Swampland. 
-The aim of the Swampland program is to understand those features which can be used to distinguish these two different regions. 
-In this talk I will give a brief introduction to recent progress in our understanding of quantum gravity and its implications for low-energy physics. 
-I will focus on the weak gravity conjecture and present an overview of our recent work in which we use black hole thermodynamics to understand the role of symmetries in demonstrating the conjecture.
 
 ### Brent Mode - Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array
 
@@ -50,3 +42,4 @@ I will describe the specifications of this novel instrument, the contributions I
 - **Aedan Gardill** - [Nanoscale Metrology with Nitrogen Vacancy Centers in Diamond](https://rmorgan10.github.io/FROGS/AedanGardill/) - August 18, 2020
 - **Ben Harpt** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/FROGS/BenHarpt/) - September 1, 2020
 - **Rob Morgan** - [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/FROGS/RobMorgan/) - September 17, 2020
+- **Greg Loges** - [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) - September 29, 2020
