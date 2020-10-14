@@ -12,11 +12,11 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Tuesday, October 13 - 2:30-3:00 CDT - Brent Mode**
+**Tuesday, October 27 - 2:30-3:00 CDT - Trevor Oxholm**
 <br>
-_Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array_
+_You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions_
 <br>
-[https://uwmadison.zoom.us/j/93632998756](https://uwmadison.zoom.us/j/93632998756)
+[https://uwmadison.zoom.us/j/97673511989](https://uwmadison.zoom.us/j/97673511989)
 
 ---
 
@@ -24,18 +24,10 @@ _Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Teles
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| October 13, 2020 | 2:30pm | Brent Mode | [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) |
 | October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
 | November 10, 2020 | 2:30pm | Joelle Corrigan | [Silicon Quantum Dot Qubits](https://rmorgan10.github.io/FROGS/JoelleCorrigan/) |
 
 ## Upcoming Talk Abstracts
-
-### Brent Mode - Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array
-
-As they speed through the Earth’s atmosphere, very high energy gamma rays have the potential to collide with an air molecule, setting off cascades of particle interactions which are detectable from a characteristic blue glow called Cherenkov light. 
-While these interactions occur on much too short a time scale and produce light too faint for the human eye to observe, a breadth of science analyses become possible using a specially designed telescope with a powerful camera. 
-My work at UW-Madison is focused on the development and commissioning of one such camera for the prototype Schwarzschild-Couder Telescope (pSCT) as part of the upcoming Cherenkov Telescope Array. 
-I will describe the specifications of this novel instrument, the contributions I’ve made to the pSCT’s development, and touch on the science that will be possible once the pSCT is completed.
 
 ### Trevor Oxholm - You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions
 
@@ -53,3 +45,4 @@ I will also describe the potential for the use of KIDs in future space missions,
 - **Ben Harpt** - [Quantum Computing with Individual Electrons](https://rmorgan10.github.io/FROGS/BenHarpt/) - September 1, 2020
 - **Rob Morgan** - [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/FROGS/RobMorgan/) - September 17, 2020
 - **Greg Loges** - [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) - September 29, 2020
+- **Brent Mode** - [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) - October 13, 2020
