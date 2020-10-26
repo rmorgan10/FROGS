@@ -25,7 +25,6 @@ _You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance D
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
 | October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
-| November 10, 2020 | 2:30pm | Joelle Corrigan | [Silicon Quantum Dot Qubits](https://rmorgan10.github.io/FROGS/JoelleCorrigan/) |
 
 ## Upcoming Talk Abstracts
 
