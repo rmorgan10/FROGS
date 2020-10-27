@@ -12,7 +12,7 @@ The EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM), led by 
 I will describe the technology behind KIDs designed for EXCLAIM, and the science we plan to accomplish. 
 I will also describe the potential for the use of KIDs in future space missions, along with the science that can be accomplished with such a low-background, highly sensitive survey of the cosmos.
 
-<a href="https://rmorgan10.github.io/FROGS/RobMorgan/oxholm_FROGS_KIDS_cosmology.pdf" target="_blank">Link to talk PDF</a>
+<a href="https://rmorgan10.github.io/FROGS/TrevorOxholm/oxholm_FROGS_KIDS_cosmology.pdf" target="_blank">Link to talk PDF</a>
 
 ![](./slides/Slide1.png)
 
