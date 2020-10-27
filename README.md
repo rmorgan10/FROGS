@@ -12,11 +12,11 @@ Note that you need to access it from your UW-Madison email address.
 ---
 
 ## Next Up
-**Tuesday, October 27 - 2:30-3:00 CDT - Trevor Oxholm**
+**Tuesday, November 10 - 2:30-3:00 CDT - Jimena Gonzalez**
 <br>
-_You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions_
+_Cosmography with Double Source Plane Lensing_
 <br>
-[https://uwmadison.zoom.us/j/97673511989](https://uwmadison.zoom.us/j/97673511989)
+[https://uwmadison.zoom.us/j/99199796788](https://uwmadison.zoom.us/j/99199796788)
 
 ---
 
@@ -24,19 +24,13 @@ _You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance D
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| October 27, 2020 | 2:30pm | Trevor Oxholm | [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) |
+| November 10, 2020 | 2:30pm | Jimena Gonzalez | [Cosmography with Double Source Plane Lensing](https://rmorgan10.github.io/FROGS/JimenaGonzalez/) |
 
 ## Upcoming Talk Abstracts
 
-### Trevor Oxholm - You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions
+### Jimena Gonzalez - Cosmography with Double Source Plane Lensing
 
-Sub-millimeter astronomy is entering a new frontier. 
-Earth’s atmosphere plagues ground-based sub-mm telescopes with high levels of background radiation, so astronomers are relocating their instruments to high-altitude balloons, and in the near future, onto satellites.
-This new era of low-background sub-mm astronomy requires highly sensitive detector technologies, for which we turn to superconductivity. 
-The Kinetic Inductance Detector (KID), a superconducting microresonator technology that has only recently seen its first light, is being commissioned for this new generation of instruments. 
-The EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM), led by NASA-Goddard Space Flight Center scientists, is among the first in this class of instruments. 
-I will describe the technology behind KIDs designed for EXCLAIM, and the science we plan to accomplish. 
-I will also describe the potential for the use of KIDs in future space missions, along with the science that can be accomplished with such a low-background, highly sensitive survey of the cosmos.
+Coming soon!
 
 ## The FROGS Archive
 
@@ -45,3 +39,4 @@ I will also describe the potential for the use of KIDs in future space missions,
 - **Rob Morgan** - [How to Find the Sources of Gravitational Waves and Astrophysical Neutrinos](https://rmorgan10.github.io/FROGS/RobMorgan/) - September 17, 2020
 - **Greg Loges** - [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) - September 29, 2020
 - **Brent Mode** - [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) - October 13, 2020
+- **Trevor Oxholm** - [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) - October 27, 2020
