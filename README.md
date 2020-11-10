@@ -13,21 +13,19 @@ We'd love to hear about your research!
 ---
 
 ## Next Up
-**TBD - 2:30-3:00 CDT - TBD**
-<br>
-_TBD_
-<br>
+
+There are no upcoming talks at this time. If you would like to give a talk, please sign up!
 
 ---
 
-## Schedule
+<!--- ## Schedule -->
 
-| Date | Time | Speaker | Title |
-| --- | --- | --- | --- |
+<!--- | Date | Time | Speaker | Title | -->
+<!--- | --- | --- | --- | --- | -->
 
-## Upcoming Talk Abstracts
 
-There are no upcoming talks at this time. If you would like to give a talk, please sign up!
+<!--- ## Upcoming Talk Abstracts -->
+
 
 ## The FROGS Archive
 
