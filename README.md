@@ -6,17 +6,17 @@ Find the sign-up link, the upcoming schedule, and abstracts below, and feel free
 
 ## Sign up to give a seminar
 
-Please fill out [this Google Form](https://forms.gle/438djJc1GmeK9qfS8). 
-Note that you need to access it from your UW-Madison email address.
+Anyone can give a FROGS talk! 
+Please fill out [this Google Form](https://forms.gle/438djJc1GmeK9qfS8) if you are interested.
+We'd love to hear about your research! 
 
 ---
 
 ## Next Up
-**Tuesday, November 10 - 2:30-3:00 CDT - Jimena Gonzalez**
+**TBD - 2:30-3:00 CDT - TBD**
 <br>
-_Cosmography with Double Source Plane Lensing_
+_TBD_
 <br>
-[https://uwmadison.zoom.us/j/99199796788](https://uwmadison.zoom.us/j/99199796788)
 
 ---
 
@@ -24,18 +24,10 @@ _Cosmography with Double Source Plane Lensing_
 
 | Date | Time | Speaker | Title |
 | --- | --- | --- | --- |
-| November 10, 2020 | 2:30pm | Jimena Gonzalez | [Cosmography with Double Source Plane Lensing](https://rmorgan10.github.io/FROGS/JimenaGonzalez/) |
 
 ## Upcoming Talk Abstracts
 
-### Jimena Gonzalez - Cosmography with Double Source Plane Lensing
-
-One of the most popular theories that explain the accelerated expansion of the universe proposes the existence of a rare kind of energy that we call Dark Energy.
-This energy acts like an "anti-gravity" and it makes about 70% of the universe total energy.
-However, there is still a lot that we don't know about it and by understanding its nature we could learn more about the evolution of the universe.
-The purpose of my research is to study dark energy by analyzing systems of Double Source Plane Lensing (DSPL).
-These are very rare systems composed by a heavy foreground galaxy and two galaxies located behind, whose light gets deflected by the presence of the foreground galaxy and this can be perceived as pieces of double rings on the sky.
-In this talk, I will explain why this novel approach is promising as a complementary method to more traditional methods, what we are doing to find DSPL systems in real data, and the future steps of the statistical analysis.
+There are no upcoming talks at this time. If you would like to give a talk, please sign up!
 
 ## The FROGS Archive
 
@@ -45,3 +37,4 @@ In this talk, I will explain why this novel approach is promising as a complemen
 - **Greg Loges** - [Slogging through the Swampland](https://rmorgan10.github.io/FROGS/GregLoges/) - September 29, 2020
 - **Brent Mode** - [Developing the Prototype Schwarzschild-Couder Telescope for the Cherenkov Telescope Array](https://rmorgan10.github.io/FROGS/BrentMode/) - October 13, 2020
 - **Trevor Oxholm** - [You’re Gonna Go Far, KID: cosmology with superconducting Kinetic Inductance Detectors on balloon- and space-based missions](https://rmorgan10.github.io/FROGS/TrevorOxholm/) - October 27, 2020
+- **Jimena Gonzalez** - [Cosmography with Double Source Plane Lensing](https://rmorgan10.github.io/FROGS/JimenaGonzalez/) - November 10, 2020
